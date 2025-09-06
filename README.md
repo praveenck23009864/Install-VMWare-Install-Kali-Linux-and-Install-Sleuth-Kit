@@ -19,11 +19,16 @@ Open the terminal in Kali Linux and run the command sudo apt install sleuthkit t
 
 
 ## OUTPUT:
-## VIRTUAL BOX:
+
 
 ## KALI LINUX:
+<img width="1920" height="1080" alt="Screenshot 2025-09-06 140609" src="https://github.com/user-attachments/assets/ab89a92d-5428-491e-a176-7e63166aab4b" />
+
+
 
 ## SLEUTH-KIT:
+<img width="1920" height="1080" alt="Screenshot 2025-09-06 141803" src="https://github.com/user-attachments/assets/e69542d8-decb-402c-97ad-aa1810f5ce20" />
+
 
 
 ## RESULT:
